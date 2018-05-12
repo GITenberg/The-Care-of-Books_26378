@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8657'
     url: http://www.gutenberg.org/2009/agents/8657
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26378#The-Care-of-Books
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2008-08-20'
 gutenberg_type: Text
