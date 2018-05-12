@@ -1,0 +1,30 @@
+_repo: The-Care-of-Books_26378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, John Willis
+    alias: Clark, J. W. (John Willis)
+    birthdate: 1833
+    deathdate: 1910
+    gutenberg_agent_id: '8657'
+    url: http://www.gutenberg.org/2009/agents/8657
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2008-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Libraries -- History'
+- !lcc 'Z'
+- !lcsh 'Library fittings and supplies -- History'
+- !lcsh 'Library architecture -- History'
+title: The Care of Books
+url: http://www.gutenberg.org/ebooks/26378
